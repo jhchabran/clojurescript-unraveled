@@ -134,7 +134,7 @@ $ iojs main.js
 
 ==== Compile for the Browser
 
-In this section we are going to create a similar "hello world" example aplication from the
+In this section we are going to create a similar "hello world" example application from the
 previous section to run in the browser environent. The minimal requirement for it
 is just a browser that can execute javascript.
 
