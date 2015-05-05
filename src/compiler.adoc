@@ -36,7 +36,7 @@ You can download it using wget:
 wget https://github.com/clojure/clojurescript/releases/download/r3211/cljs.jar
 ----
 
-The _ClojureScript_ compiler is packages in a standalone executable jar file, so this is the unique
+The _ClojureScript_ compiler is packaged in a standalone executable jar file, so this is the unique
 file and jdk8 that you need for compile the _ClojureScript_ source code to javascript.
 
 
